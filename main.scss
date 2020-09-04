@@ -1,5 +1,21 @@
 body {
-    background-color: aquamarine;
+    //background-color: aquamarine;
     width: 100%;
+
+    header {
+        a {
+            float: right;
+            background: url(./images/mailbox.png);
+            background-position-x: left;
+            background-size: 30px 18px;
+            background-repeat: no-repeat;
+            padding-left: 35px;
+            margin-right: 30px;
+            //background-position: left;
+            //background-repeat: no-repeat;
+
+        }
+    }
 }
+
 

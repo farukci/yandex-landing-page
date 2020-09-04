@@ -1,5 +1,14 @@
 body {
-  background-color: aquamarine;
   width: 100%;
+}
+
+body header a {
+  float: right;
+  background: url(./images/mailbox.png);
+  background-position-x: left;
+  background-size: 30px 18px;
+  background-repeat: no-repeat;
+  padding-left: 35px;
+  margin-right: 30px;
 }
 /*# sourceMappingURL=main.css.map */
