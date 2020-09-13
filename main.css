@@ -11,4 +11,8 @@ body header a {
   padding-left: 35px;
   margin-right: 30px;
 }
+
+body main {
+  clear: both;
+}
 /*# sourceMappingURL=main.css.map */
